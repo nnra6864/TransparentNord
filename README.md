@@ -1,4 +1,4 @@
-[![TransparentNord](TransparentNord.png "TransparentNord")]
+![TransparentNord](TransparentNord.png "TransparentNord")
 # Usage
 ## Vencord
 Paste the following link into your online themes input field:
